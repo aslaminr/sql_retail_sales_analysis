@@ -282,5 +282,16 @@ group by
 
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
+## Author - Aslam PP
+
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+### Stay Updated and Let's keep learning
+
+For more content on SQL, data analysis, and other data-related topics, make sure to follow me on Linkedin:
+
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/aslam6366)
+
 Thank you for your support, and I look forward to connecting with you!
+
 
